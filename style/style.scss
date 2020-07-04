@@ -416,12 +416,12 @@
 }
 
 // Projects Section
-#projects-section {
+#shop {
   transition: transform 0.7s;
   will-change: transform;
 
   // Section Title
-  #projects-section-title {
+  #shop-title {
     margin: 4vw auto 8vw;
     text-align: center;
     height: 20vw;
@@ -986,10 +986,10 @@
   }
 
   // Projects Section
-  #projects-section {
+  #shop {
 
     // Section Title
-    #projects-section-title {
+    #shop-title {
       margin: 25vw auto 30vw;
 
       h1 {
@@ -1214,7 +1214,7 @@
 @media (max-width: 550px) {
 
   // Projects Section
-  #projects-section {
+  #shop {
 
     // Project Section
     .project {

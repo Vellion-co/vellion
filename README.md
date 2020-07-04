@@ -1,2 +1,6 @@
-# html-Personal Website
-This is my personal website I am using just raw HTML
+# vellion.co
+
+
+# Welcome to the Home of Vellion Apparel
+
+# Fashion Tech at vellion.co
