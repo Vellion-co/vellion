@@ -2319,7 +2319,8 @@ img {
 #shop .project .project-count h1 {
   font-weight: 900;
   color: transparent;
-  font-size: 22vw;
+  font-size: 8vw;
+  /* font-size: 22vw; */
   -webkit-text-stroke: 1px #ffffff;
 }
 
@@ -2764,7 +2765,8 @@ img {
     z-index: -1;
   }
   #shop .project .project-count h1 {
-    font-size: 25vw;
+    font-size: 7vw;
+    /* font-size: 25vw; */
   }
   #shop .project .project-view-button {
     bottom: -2%;
